@@ -1,0 +1,82 @@
+2016-08-09T10:37:52.153047000 0.019489s notice: Recursively removing directory /Users/dan/Projects/makers/week-5/makers-bnb/rethinkdb_data/tmp
+2016-08-09T10:37:52.154609000 0.021054s notice: Initializing directory /Users/dan/Projects/makers/week-5/makers-bnb/rethinkdb_data
+2016-08-09T10:37:52.154714000 0.021154s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/dan/Projects/makers/week-5/makers-bnb/rethinkdb_data' did not already exist or is empty.)
+2016-08-09T10:37:52.154751000 0.021192s notice: Running rethinkdb 2.3.4 (CLANG 7.0.2 (clang-700.1.81))...
+2016-08-09T10:37:52.159449000 0.025892s notice: Running on Darwin 14.5.0 x86_64
+2016-08-09T10:37:52.159519000 0.025959s notice: Loading data from directory /Users/dan/Projects/makers/week-5/makers-bnb/rethinkdb_data
+2016-08-09T10:37:52.258065000 0.124505s info: Automatically using cache size of 100 MB
+2016-08-09T10:37:52.258075000 0.124515s warn: Cache size does not leave much memory for server and query overhead (available memory: 646 MB).
+2016-08-09T10:37:52.258080000 0.124520s warn: Cache size is very low and may impact performance.
+2016-08-09T10:37:52.259047000 0.125489s notice: Listening for intracluster connections on port 29015
+2016-08-09T10:37:52.261868000 0.128309s notice: Listening for client driver connections on port 28015
+2016-08-09T10:37:52.262303000 0.128744s notice: Listening for administrative HTTP connections on port 8080
+2016-08-09T10:37:52.262308000 0.128748s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-08-09T10:37:52.262313000 0.128753s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-08-09T10:37:52.262315000 0.128756s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-08-09T10:37:52.262321000 0.128762s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-08-09T10:37:52.262332000 0.128772s notice: Server ready, "Dans_MacBook_Pro_2_local_st5" 8d4aa962-ea74-4a36-9c27-7ad69ef1299b
+2016-08-09T10:38:07.844361000 15.710192s notice: Server got SIGINT from pid 90351, uid 501; shutting down...
+2016-08-09T10:38:07.844540000 15.710371s notice: Shutting down client connections...
+2016-08-09T10:38:07.844682000 15.710512s notice: All client connections closed.
+2016-08-09T10:38:07.844693000 15.710523s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-08-09T10:38:07.845225000 15.711056s notice: Storage engine shut down.
+2016-08-09T10:39:27.415155000 0.044263s notice: Running rethinkdb 2.3.4 (CLANG 7.0.2 (clang-700.1.81))...
+2016-08-09T10:39:27.428162000 0.057268s notice: Running on Darwin 14.5.0 x86_64
+2016-08-09T10:39:27.428223000 0.057328s notice: Loading data from directory /Users/dan/Projects/makers/week-5/makers-bnb/rethinkdb_data
+2016-08-09T10:39:27.458544000 0.087648s info: Automatically using cache size of 100 MB
+2016-08-09T10:39:27.458570000 0.087674s warn: Cache size does not leave much memory for server and query overhead (available memory: 546 MB).
+2016-08-09T10:39:27.458578000 0.087682s warn: Cache size is very low and may impact performance.
+2016-08-09T10:39:27.459934000 0.089038s notice: Listening for intracluster connections on port 29015
+2016-08-09T10:39:27.463498000 0.092602s notice: Listening for client driver connections on port 28015
+2016-08-09T10:39:27.463642000 0.092746s notice: Listening for administrative HTTP connections on port 8080
+2016-08-09T10:39:27.463644000 0.092748s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-08-09T10:39:27.463647000 0.092751s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-08-09T10:39:27.463649000 0.092753s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-08-09T10:39:27.463653000 0.092757s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-08-09T10:39:27.463656000 0.092760s notice: Server ready, "Dans_MacBook_Pro_2_local_st5" 8d4aa962-ea74-4a36-9c27-7ad69ef1299b
+2016-08-09T10:39:35.470504000 8.099304s notice: Server got SIGINT from pid 90351, uid 501; shutting down...
+2016-08-09T10:39:35.470611000 8.099410s notice: Shutting down client connections...
+2016-08-09T10:39:35.470734000 8.099533s notice: All client connections closed.
+2016-08-09T10:39:35.470739000 8.099538s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-08-09T10:39:35.479821000 8.108621s notice: Storage engine shut down.
+2016-08-09T10:40:27.345303000 0.041856s notice: Running rethinkdb 2.3.4 (CLANG 7.0.2 (clang-700.1.81))...
+2016-08-09T10:40:27.357336000 0.053885s notice: Running on Darwin 14.5.0 x86_64
+2016-08-09T10:40:27.357380000 0.053927s notice: Loading data from directory /Users/dan/Projects/makers/week-5/makers-bnb/rethinkdb_data
+2016-08-09T10:40:27.395846000 0.092393s info: Automatically using cache size of 100 MB
+2016-08-09T10:40:27.395854000 0.092401s warn: Cache size does not leave much memory for server and query overhead (available memory: 571 MB).
+2016-08-09T10:40:27.395860000 0.092407s warn: Cache size is very low and may impact performance.
+2016-08-09T10:40:27.397586000 0.094133s notice: Listening for intracluster connections on port 29015
+2016-08-09T10:40:27.401916000 0.098464s notice: Listening for client driver connections on port 28015
+2016-08-09T10:40:27.402093000 0.098640s notice: Listening for administrative HTTP connections on port 8080
+2016-08-09T10:40:27.402096000 0.098643s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-08-09T10:40:27.402100000 0.098647s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-08-09T10:40:27.402102000 0.098649s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-08-09T10:40:27.402106000 0.098653s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-08-09T10:40:27.402110000 0.098657s notice: Server ready, "Dans_MacBook_Pro_2_local_st5" 8d4aa962-ea74-4a36-9c27-7ad69ef1299b
+2016-08-09T10:47:49.342087000 442.020637s notice: Server got SIGINT from pid 94896, uid 501; shutting down...
+2016-08-09T10:47:49.342259000 442.020808s notice: Shutting down client connections...
+2016-08-09T10:47:49.342501000 442.021050s notice: All client connections closed.
+2016-08-09T10:47:49.342508000 442.021058s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-08-09T10:47:49.347512000 442.026062s notice: Storage engine shut down.
+2016-08-09T10:48:45.968577000 0.008288s notice: Running rethinkdb 2.3.4 (CLANG 7.0.2 (clang-700.1.81))...
+2016-08-09T10:48:45.980372000 0.020081s notice: Running on Darwin 14.5.0 x86_64
+2016-08-09T10:48:45.980468000 0.020176s notice: Loading data from directory /Users/dan/Projects/makers/week-5/makers-bnb/rethinkdb_data
+2016-08-09T10:48:46.009651000 0.049359s info: Automatically using cache size of 100 MB
+2016-08-09T10:48:46.009659000 0.049367s warn: Cache size does not leave much memory for server and query overhead (available memory: 712 MB).
+2016-08-09T10:48:46.009682000 0.049389s warn: Cache size is very low and may impact performance.
+2016-08-09T10:48:46.010225000 0.049933s notice: Listening for intracluster connections on port 29015
+2016-08-09T10:48:46.011542000 0.051249s notice: Listening for client driver connections on port 28015
+2016-08-09T10:48:46.011720000 0.051428s notice: Listening for administrative HTTP connections on port 8080
+2016-08-09T10:48:46.011723000 0.051430s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-08-09T10:48:46.011727000 0.051434s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-08-09T10:48:46.011728000 0.051435s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-08-09T10:48:46.011731000 0.051439s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-08-09T10:48:46.011735000 0.051442s notice: Server ready, "Dans_MacBook_Pro_2_local_st5" 8d4aa962-ea74-4a36-9c27-7ad69ef1299b
+2016-08-09T10:51:33.361115000 167.393959s info: Table b2043f0d-46b1-4832-b7ed-1578b28d9d74: Starting a new Raft election for term 1.
+2016-08-09T10:51:33.362665000 167.395510s info: Table b2043f0d-46b1-4832-b7ed-1578b28d9d74: Added replica on this server.
+2016-08-09T10:51:33.370751000 167.403596s info: Table b2043f0d-46b1-4832-b7ed-1578b28d9d74: This server is Raft leader for term 1. Latest log index is 0.
+2016-08-09T12:47:43.181286000 7136.930752s notice: Server got SIGINT from pid 94896, uid 501; shutting down...
+2016-08-09T12:47:43.182759000 7136.932226s notice: Shutting down client connections...
+2016-08-09T12:47:43.185782000 7136.935248s notice: All client connections closed.
+2016-08-09T12:47:43.185788000 7136.935253s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-08-09T12:47:43.196321000 7136.945787s notice: Storage engine shut down.
